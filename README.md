@@ -1,16 +1,1 @@
-# Project: Kartu Nama Digital 🪪
-
-Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
-
-## 📸 Screenshots
-![Preview Aplikasi](assets/screenshot.PNG)
-
-## 🛠️ Tech Stack
-- Framework: React Native (Expo SDK 50)
-- Navigation: Expo Router
-- Language: TypeScript
-
-## 🚀 Cara Menjalankan
-1. Clone repository ini.
-2. Jalankan npm install.
-3. Jalankan npx expo start.
+<img width="660" height="1434" alt="screenshot" src="https://github.com/user-attachments/assets/6559bf61-68f1-465c-833f-84f78bc959d5" />
